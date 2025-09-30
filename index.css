@@ -1,0 +1,32 @@
+p{
+  background-color: rgb(199, 43, 165);
+  border-radius: 10px;
+  padding: 16px;
+}
+body{
+  background-color: rgba(245, 135, 196, 0.842);
+
+}
+input{
+  background-color: rgb(236, 173, 226);
+  border-radius: 5px;
+
+}
+button{
+  background-color:rgb(231, 112, 205);
+  border-radius: 5px;
+  width: 100px;
+  padding: 3px;
+ margin-left: 16px;
+}
+h1{
+  color: rgb(139, 11, 112);
+}
+form{
+  
+  display: grid;
+  grid-template-columns: repeat(1,1fr);
+  gap: 1rem;
+  width: 400px;
+  
+}
